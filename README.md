@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-testimonails-slider-9dS65_yS69)
+- Live Site URL: [Live demo](https://mohamed-devp.github.io/testimonials-slider/)
 
 ## My process
 
